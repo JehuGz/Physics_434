@@ -1,1 +1,2 @@
-PHYS434
+# Physics_434
+Repository for Physics 434 Laboratory
